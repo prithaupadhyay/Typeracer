@@ -15,11 +15,7 @@ $ git remote add upstream https://github.com/aashutoshrathi/Typeracer.git
 Coming soon
 
 ## Technologies Used
-
-- [<img src="assets/firebase.png"  width="100">](https://www.firebase.com/)
-- [<img src="assets/vue-js.svg" width="66">](https://vuejs.org/)
 - [<img src="assets/node.png" width="80">](https://nodejs.org/en/)
-- [<img src="assets/oauth-2.png" width="30">](https://developers.google.com/identity/protocols/OAuth2)
 
 ## Author ✍️
 <details>
@@ -45,4 +41,4 @@ We're always happy to receive your feedback!
 ## License
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/aashutoshrathi/Typeracer/blob/master/LICENSE)
-> © [Aashutosh Rathi](https://github.com/aashutoshrathi)
+> © [Pritha Upadhyay](https://github.com/prithaupadhyay)
